@@ -1,0 +1,5 @@
+send to agent: Are you able to see what am i actively building right now, i used to build with Claude but after that i faced restrictions for no reason, that's why i switched to cursor, and currently i'm building glassmorphim with claude, and u can see it did a good work 
+"
+your job:
+1. fix the side bar problem where when i chose something in the navigation section of the side bar, the side bar wouldn't automatically scoll back, make it scroll back automatically when i chose something or when i clicked area out of the sidebar like the page section, also implement the same style of glassmorphism like claude did to the sidebar
+"
